@@ -1,0 +1,15 @@
+Change Log Version 1.5:
+----------------------
+
+Minor modifications were made focusing primarily on cleaning up code and improving visuals slightly. Some minor functionality
+improvements were also made.
+
+Changes include:
+  - Changed font color of locked parameter and Vin by toggling textfield locked status instead of enable.
+  - Adjusted connection Diagram to account for ground connection.
+  
+  - General cleanup of code commenting, removing unneeded sections.
+  
+  - Display warning when input max range is set to greater than 600V 
+	- Fixed error where DC voltage could be set by setting an initial frequency and then changing it by applying 0Hz. 
+    Warning messgae will now be displayed if 0Hz is applied and frequency will revert to last usable frequency.
