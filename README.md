@@ -3,7 +3,7 @@ Version 1.00
 
 Application to control synchronous motor written in Visual Basics for Application (VBA).
 
-Project Done on behalf of Alectrix (Pty) Ltd for Client Sasol
+Project done on behalf of Alectrix (Pty) Ltd for Client Sasol
 
 Description:
 Application Takes a DCV reading on binary channel 1. It will then then output 3-phase voltage and current on VA and IA channels 
