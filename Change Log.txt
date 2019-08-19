@@ -10,6 +10,6 @@ Changes include:
   
   - General cleanup of code commenting, removing unneeded sections.
   
-  - Display warning when input max range is set to greater than 600V 
-	- Fixed error where DC voltage could be set by setting an initial frequency and then changing it by applying 0Hz. 
+  - Display warning when input max range is set to greater than 600V .
+  - Fixed error where DC voltage could be set by setting an initial frequency and then changing it by applying 0Hz. 
     Warning messgae will now be displayed if 0Hz is applied and frequency will revert to last usable frequency.
