@@ -1,4 +1,4 @@
-Change Log Version 0.51:
+Change Log Version 1.00:
 ----------------------
 
 Minor modifications were made focusing primarily on cleaning up code and improving visuals slightly. Some minor functionality
