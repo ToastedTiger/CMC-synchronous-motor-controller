@@ -6,7 +6,7 @@ Instructional texts and diagrams were updated. Additionally some functionallity 
 The rest were visual and accesibility improvements.
 
 Changes include:
-  - Data recording implemented.
+  - Data recording implemented. Accessed via settings and saved in "Recorded data" sheet
   
   - Message given when program can't connect to device.
   - Model can now be calculated with input voltage greater than 600V. Warning given that actually
