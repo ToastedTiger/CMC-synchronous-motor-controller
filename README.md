@@ -1,5 +1,5 @@
 # CMC-synchronous-motor-controller
-Version 1.50
+Version 0.51
 
 Application to control synchronous motor written in Visual Basics for Application (VBA).
 
