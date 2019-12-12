@@ -1,5 +1,5 @@
 # CMC-synchronous-motor-controller
-Version 1.50
+Version 2.0
 
 Application to control synchronous motor written in Visual Basics for Application (VBA).
 
@@ -15,4 +15,3 @@ Machine compatibility:
 OMICRON CMC 256plus
 OMICRON CMC 256-6
 OMICRON CMC 356
-OMICRON CMC 430 (not verified)
