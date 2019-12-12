@@ -1,3 +1,27 @@
+----------------------
+Change Log Version 1.50:
+----------------------
+
+Instructional texts and diagrams were updated. Additionally some functionallity improvements were made along with some minor bug fixes. 
+The rest were visual and accesibility improvements.
+
+Changes include:
+  - Data recording implemented. Accessed via settings and saved in "Recorded data" sheet
+  
+  - Message given when program can't connect to device.
+  - Model can now be calculated with input voltage greater than 600V. Warning given that actually
+    applying this is dangerous.
+  - Safety sheet not automatically set as active to prevent "macros not enabled" error.
+  
+  - Text fields give error and revert to last state when non-numerics are entered.
+  - All fields rounded to 2 decimal places.
+  
+  - Instructions updated
+  - CMC430 Diagram added
+
+
+
+----------------------
 Change Log Version 1.00:
 ----------------------
 
